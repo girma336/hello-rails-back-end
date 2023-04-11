@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# hello-rails-back-end
-=======
+
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
@@ -162,4 +160,3 @@ If you like this project, kindly give it a star ⭐️
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 7353176 (Add descriptive read me)
