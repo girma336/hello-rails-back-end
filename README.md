@@ -73,6 +73,13 @@ After installing Ruby, run the following command to install rails.-
 ```sh
  gem install rails
 ```
+### Front End Information
+[FrontEnd](https://github.com/girma336/hello-react-front-end)
+Runs the app in the development mode.\
+First run Rails server than run react server using `npm start`
+Do yo want to run another port ? yes than you can open the above link
+Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+
 
 ### Setup
 
