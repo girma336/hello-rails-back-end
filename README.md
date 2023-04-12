@@ -25,7 +25,7 @@
 
 # 📖 Hello_Rails_back_end <a name="about-project"></a>
 
-By now you've used many different gems with Rails and this exercise will have you connect previous knowledge with new knowledge as you get a chance to use Webpack with jsbundling-rails gem.
+By now you've used many different gems with Rails and this exercise will have you connect with react using rails Api.
 
 ## 🛠 Built With <a name="built-with"></a>
 The Recipe App was built with:
@@ -74,11 +74,18 @@ After installing Ruby, run the following command to install rails.-
  gem install rails
 ```
 ### Front End Information
-[FrontEnd](https://github.com/girma336/hello-react-front-end)
+[FrontEnd](https://github.com/girma336/hello-react-front-end.git)
 Runs the app in the development mode.\
 First run Rails server than run react server using `npm start`
 Do yo want to run another port ? yes than you can open the above link
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+
+### Back End Information
+
+[BackEnd](https://github.com:girma336/hello-rails-back-end.git)
+Runs the app in the development mode.\
+  `rails server`
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### Setup
